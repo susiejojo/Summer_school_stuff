@@ -1,12 +1,10 @@
 # Assignment on MVG
 
-# Assignment on MVG
-
 ## Transformations & Single View Geometry
 
 Contact Rahul.
 
-[Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_Assignment_1.pdf](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_Assignment_1.pdf)
+![Assignment1.pdf](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_1.pdf)
 
 Toggle to see the questions.
 
@@ -28,9 +26,9 @@ Toggle to see the questions.
 
         Answer: 
 
-        ![Assignment%20on%20MVG/MVG_assignment_1.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_1.jpg)
+        ![Assignment%20on%20MVG/MVG_assignment_1.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_1.jpg)
 
-        ![Assignment%20on%20MVG/MVG_assignment_2.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_2.jpg)
+        ![Assignment%20on%20MVG/MVG_assignment_2.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_2.jpg)
 
 - `***Homework: TODO2 - 5 Marks` - Singularity Cases in 8 point algorithm***
 
@@ -38,26 +36,26 @@ Toggle to see the questions.
 
     - 2a: Answer - Elaborate for pure rotation case.
 
-    ![Assignment%20on%20MVG/MVG_assignment_3.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_3.jpg)
+    ![Assignment%20on%20MVG/MVG_assignment_3.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_3.jpg)
 
     - `**BONUS 5 Marks**` 2b: Answer - Elaborate for world points planar case.
 
-    ![Assignment%20on%20MVG/MVG_assignment_4.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_4.jpg)
+    ![Assignment%20on%20MVG/MVG_assignment_4.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_4.jpg)
 
-    ![Assignment%20on%20MVG/MVG_assignment_5.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_5.jpg)
+    ![Assignment%20on%20MVG/MVG_assignment_5.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_5.jpg)
 
 - `***Homework: TODO3 - 5 Marks` - RANSAC***
     - Explain why RANSAC is necessary for accurate F estimation.
 
         Answer:
 
-        ![Assignment%20on%20MVG/MVG_assignment_6.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_6.jpg)
+        ![Assignment%20on%20MVG/MVG_assignment_6.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_6.jpg)
 
     - Explain briefly how you'd apply RANSAC algorithm to computation of F (using normalized 8 point algorithm)?
 
         Answer:
 
-        ![Assignment%20on%20MVG/MVG_assignment_7.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_7.jpg)
+        ![Assignment%20on%20MVG/MVG_assignment_7.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_7.jpg)
 
 - `***Homework: TODO4 - 15 Marks` -  Stereo***
     1. Deriving depth equation
@@ -65,37 +63,37 @@ Toggle to see the questions.
 
             Answer:
 
-            ![Assignment%20on%20MVG/MVG_assignment_8.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_8.jpg)
+            ![Assignment%20on%20MVG/MVG_assignment_8.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_8.jpg)
 
         - b. Can you give a real world example where "d" is zero?
 
             Answer:
 
-            ![Assignment%20on%20MVG/MVG_assignment_9.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_9.jpg)
+            ![Assignment%20on%20MVG/MVG_assignment_9.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_9.jpg)
 
     2. There are many ways we humans reason about depth. One most common cue seems to be the same principle used in stereo. 
         - a. Elaborate on this statement.
 
             Answer:
 
-            ![Assignment%20on%20MVG/MVG_assignment_10.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_10.jpg)
+            ![Assignment%20on%20MVG/MVG_assignment_10.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_10.jpg)
 
         - b. Also, if that is really the case, why do you think we do pretty good in sensing depth with 1 eye closed (or people born with 1 eye)?
 
             Answer:
 
-            ![Assignment%20on%20MVG/MVG_assignment_11.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_11.jpg)
+            ![Assignment%20on%20MVG/MVG_assignment_11.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_11.jpg)
 
     3. What happens if the left and right camera in the above image aren't facing in the same direction (but with some common overlap region of the world)? In other words, they have a rotational transformation in addition to existing translational transformation. Put your answer under "Answer: 3a" section. After writing down your answer, google "stereo rectification" and explain what you understand under "Answer: 3b" section.
         - Answer: 3a
 
-        ![Assignment%20on%20MVG/MVG_assignment_12.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_12.jpg)
+        ![Assignment%20on%20MVG/MVG_assignment_12.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_12.jpg)
 
-        ![Assignment%20on%20MVG/MVG_assignment_13.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_13.jpg)
+        ![Assignment%20on%20MVG/MVG_assignment_13.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_13.jpg)
 
         - Answer: 3b
 
-        ![Assignment%20on%20MVG/MVG_assignment_14.jpg](Assignment%20on%20MVG%206cac6b37c8f041f8b803e56b608a9a38/MVG_assignment_14.jpg)
+        ![Assignment%20on%20MVG/MVG_assignment_14.jpg](https://github.com/susiejojo/Summer_school_stuff/blob/master/Assignment%20on%20MVG/MVG_assignment_14.jpg)
 
 # Instructions
 

@@ -8,7 +8,7 @@
 
 Contact Rahul.
 
-[Assignment%20on%20MVG/MVG_Assignment_1.pdf](Assignment%20on%20MVG/MVG_Assignment_1.pdf)
+[Assignment on MVG/MVG_Assignment_1.pdf](Assignment%20on%20MVG/MVG_Assignment_1.pdf)
 
 **`*Homework: TODO0: 40 Marks*`**
 
